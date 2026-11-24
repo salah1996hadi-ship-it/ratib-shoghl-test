@@ -1,0 +1,10 @@
+{
+  "name": "رتّب شغلك",
+  "short_name": "رتّب شغلك",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#173d35"
+}
